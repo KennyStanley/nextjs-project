@@ -9,6 +9,6 @@ describe('Header', () => {
     test('Header renders correct text', () => {
     const { getByTestId } = render(<Header />)
     const header = getByTestId('header')
-    expect(header.textContent).toBe('Testing demo with Next.js')
+    expect(header.textContent).toBe('Next.js Project Template')
     })
 })

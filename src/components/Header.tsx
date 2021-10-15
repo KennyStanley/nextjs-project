@@ -4,7 +4,7 @@ const Header = () => {
             data-testid="header"
             className='text-[72px] bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-blue-500 font-extrabold'
         >
-            Testing demo with Next.js
+            Next.js Project Template
         </h1>
     )
 }
