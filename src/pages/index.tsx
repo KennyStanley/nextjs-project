@@ -1,5 +1,5 @@
-import Header from "@/components/Header"
-import Content from "@/components/Content";
+import Header from "@/components/ui/Header"
+import Content from "@/components/ui/Content"
 
 export default function Home() {
   return (

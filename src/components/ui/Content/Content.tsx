@@ -1,4 +1,4 @@
-const Content = () => {
+export const Content = () => {
     return (
         <h2 className='text-2xl max-w-md mx-auto' data-testid="content">
             A simple Next.js application with TypeScript, Tailwind CSS and testing
@@ -6,5 +6,3 @@ const Content = () => {
         </h2>
     )
 }
-
-export default Content

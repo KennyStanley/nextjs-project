@@ -1,4 +1,4 @@
-const Header = () => {
+export const Header = () => {
     return (
         <h1 
             data-testid="header"
@@ -8,5 +8,3 @@ const Header = () => {
         </h1>
     )
 }
-
-export default Header
